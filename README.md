@@ -1,4 +1,4 @@
-# [All the Mods 10-2.47](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10) on Curseforge
+# [All the Mods 10: To the Sky](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10-sky) on Curseforge
 <!-- toc -->
 
 - [Description](#description)
@@ -36,7 +36,7 @@ As the end user, you are responsible for accepting the EULA from Mojang to run t
 These environment variables can be set to override their defaults.
 
 * JVM_OPTS "-Xms2048m -Xmx4096m"
-* MOTD "All the Mods 10-2.47 Server Powered by Docker"
+* MOTD "All the Mods 10: To the Sky Server Powered by Docker"
 * ALLOW_FLIGHT "true" or "false"
 * MAX_PLAYERS "5"
 * ONLINE_MODE "true" or "false"
